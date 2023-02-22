@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/msh-8/msh-8/blob/main/images/msh-8_banner_arc.gif"></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?msh-8=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh-8)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center"> Hi! 👋</h1>
 <h3 align="center"> I'm MSH.</h3>
