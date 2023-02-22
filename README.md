@@ -2,7 +2,7 @@
 
 <!--
 **msh-8/msh-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Braydon's GitHub Banner](./assets/msh-8_banner.png)](https://github.com/msh-8/msh-8/images)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
