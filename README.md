@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=79859AAE&center=true&vCenter=true&width=1000&lines=Hi'+I'm+MSH.;I'm+a+sys+admin.;Welcome+to+my+profile.)](https://git.io/typing-svg)
+<!-- 
 <p align="center">
-<!-- <img src="https://github.com/msh-8/msh-8/blob/main/images/msh-8_banner_arc.gif"></p> -->
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh-8&show_icons=true&bg_color=00000000) -->
+<img src="https://github.com/msh-8/msh-8/blob/main/images/msh-8_banner_arc.gif"></p> 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh-8&show_icons=true&bg_color=00000000)
 <h1 align="center"> Hi! </h1>
 <h3 align="center"> I'm MSH.</h3>
-<h3 align="center"> SysAdmin</h3>
+<h3 align="center"> SysAdmin</h3> -->
 
 
 
