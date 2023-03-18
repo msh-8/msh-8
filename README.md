@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/msh-8/msh-8/blob/main/images/msh-8_banner_arc.gif"></p>
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh-8&show_icons=true&bg_color=00000000) -->
-<h1 align="center"> Hi! 👋</h1>
+<h1 align="center"> Hi! https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966</h1>
 <h3 align="center"> I'm MSH.</h3>
 <h3 align="center"> SysAdmin</h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+MSH;I'm+a+sys+admin.)](https://git.io/typing-svg)
