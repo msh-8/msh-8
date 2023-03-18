@@ -1,4 +1,4 @@
-<h1 aligh="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+MSH;I'm+a+sys+admin.)](https://git.io/typing-svg)</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+MSH;I'm+a+sys+admin.)](https://git.io/typing-svg)
 <p align="center">
 <!-- <img src="https://github.com/msh-8/msh-8/blob/main/images/msh-8_banner_arc.gif"></p> -->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msh-8&show_icons=true&bg_color=00000000) -->
